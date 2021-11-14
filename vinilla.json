@@ -1,0 +1,10 @@
+{
+    "name": "Clock",
+    "vendor": "Lcobucci",
+    "description": "Форк проекта https://github.com/lcobucci/clock для использования в экосистеме VinillaLaPuh(VLP)",
+    "repo_url": "https://github.com/coding-liki/clock",
+    "version": "0.1",
+    "depends_on": [
+        "CodingLiki/OoAutoloader"
+    ]
+}
